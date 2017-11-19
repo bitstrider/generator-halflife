@@ -1,0 +1,4 @@
+[submodule "generators/app/templates/master"]
+	path = generators/app/templates/master
+	url = https://github.com/bitstrider/halflife
+	branch = master

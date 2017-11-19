@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Jason Yung",
+      "authorEmail": "json.yung@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
